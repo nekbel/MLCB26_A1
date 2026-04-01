@@ -1,0 +1,12 @@
+data/
+*.csv
+*.pkl
+*.json
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+Thumbs.db
+desktop.ini
